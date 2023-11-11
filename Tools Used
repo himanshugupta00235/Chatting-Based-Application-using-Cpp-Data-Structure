@@ -1,0 +1,21 @@
+Language and Tools:
+Programming Language
+C++ is the primary programming language used in the development of the ChatNest project. The
+selection of C++ was based on its effectiveness in managing data structures, efficiency, and
+versatility. It offers the framework for creating a powerful command-line chat program that features
+buddy management, messaging, and user authentication.
+Development Tools
+Code Editor
+Coding and development require a code editor. Standard code editors like Visual Studio Code, Visual
+C++, and Code::Blocks can be used with ChatNest. To speed up the development process, these
+editors come with capabilities like project management, debugging, and code highlighting.
+Compiler
+The source code must be translated into executable applications using a C++ compiler. You can use
+one of the following well-known C++ compilers to compile ChatNest:
+• MinGW: A low-key Windows native application development environment.
+• GCC is a popular compiler package that supports a number of different programming
+languages.
+Command/Terminal Prompt
+Because ChatNest is a command-line application, user contact takes place via the terminal or
+command prompt. It is where users log in, send messages, handle their friend list, and carry out other
+program functions. ChatNest can be run from any regular terminal or command prompt.
